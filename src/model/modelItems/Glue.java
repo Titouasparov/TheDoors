@@ -5,4 +5,9 @@ public class Glue extends model.Item{
     public void trigger() {
 
     }
+
+    @Override
+    public void setIsVisible(Boolean isVisible) {
+
+    }
 }

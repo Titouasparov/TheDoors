@@ -6,4 +6,9 @@ public class Door extends Item {
     public void trigger() {
 
     }
+
+    @Override
+    public void setIsVisible(Boolean isVisible) {
+
+    }
 }
